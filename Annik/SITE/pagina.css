@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  header{
+ margin: 5px;
+    background-color: black;
+  }
+  h1{
+    color: white;
+    text-align: center;
+  }
+a{
+    color: rgb(151, 126, 126);
+}
+ul{
+    margin: 5px;
+    text-align: center;
+}
+img{
+    width: 150px;
+    margin: px;
+    padding: 5px;
+    border: 1px solid transparent;
+    filter: drop-shadow(10px 10px 7px);
+}
+
+section{
+    background-color: rgb(65, 61, 61);
+}
+div{
+    background-color: rgb(201, 222, 222);
+    margin: 5px;
+}
+p{
+    font: 1em sans-serif;
+    color: rgb(0, 0, 0);
+}
